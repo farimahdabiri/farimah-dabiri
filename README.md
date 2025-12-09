@@ -52,3 +52,14 @@ Ladybug/Grasshopper workflows to explore shading, radiation, and microclimate im
   booktitle={ISC Conference on Urban Planning and Resilience}
 }
 ```
+## Publications (ISC Indexed)
+
+```bibtex
+@conference{dabiri2021earthquake,
+  title={Planning of Shiraz Historical-Cultural Zone (District 8) Approach to Increase Earthquake Resilience},
+  author={Dabiri, Farimah},
+  year={2021},
+  booktitle={ISC Conference on Urban Planning and Resilience}
+}
+```
+
