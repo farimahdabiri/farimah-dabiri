@@ -41,7 +41,7 @@ Slope/aspect modelling, hillshade generation, and terrain-based environmental in
 Ladybug/Grasshopper workflows to explore shading, radiation, and microclimate impacts.
 
 ---
-
+```bibtex
 ## Publications (ISC Indexed)
 
 ```bibtex
