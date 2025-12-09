@@ -41,9 +41,10 @@ Slope/aspect modelling, hillshade generation, and terrain-based environmental in
 Ladybug/Grasshopper workflows to explore shading, radiation, and microclimate impacts.
 
 ---
+
 ## Publications (ISC Indexed)
 
-```
+```bibtex
 @conference{dabiri2021earthquake,
   title={Planning of Shiraz Historical-Cultural Zone (District 8) Approach to Increase Earthquake Resilience},
   author={Dabiri, Farimah},
@@ -51,6 +52,7 @@ Ladybug/Grasshopper workflows to explore shading, radiation, and microclimate im
   booktitle={ISC Conference on Urban Planning and Resilience}
 }
 ```
+
 @conference{dabiri2021flood,
   title={Determining the Extent of the Flood Using Data from the OLI Sensor of the Landsat Satellite (Case Study: Agh Qola Flood 2017)},
   author={Dabiri, Farimah},
