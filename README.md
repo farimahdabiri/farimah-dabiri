@@ -58,4 +58,3 @@ Ladybug/Grasshopper workflows to explore shading, radiation, and microclimate im
   year={2021},
   booktitle={ISC Conference on Remote Sensing and Flood Assessment}
 }
-```
