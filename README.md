@@ -44,10 +44,7 @@ Ladybug/Grasshopper workflows to explore shading, radiation, and microclimate im
 
 ## Publications (ISC Indexed)
 
-## Publications (ISC Indexed)
 
-{
-```
 @conference{dabiri2021earthquake,
   title={Planning of Shiraz Historical-Cultural Zone (District 8) Approach to Increase Earthquake Resilience},
   author={Dabiri, Farimah},
